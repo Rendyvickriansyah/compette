@@ -13,7 +13,7 @@ Source code ini gratis digunakan jika dalam tujuan pembelajaran dan eksplorasi, 
 * Anda harus tetap terhubung dengan koneksi internet untuk mengakses framework Bootstrap 5.
 
 
-################################################################################################################################################################################
+######################################################################################
 
 
 This website is a job search landing page designed by Pixel Build With Angga and developed by Rendy Vickriansyah (me), this landing page is made using the css framework, namely Bootstrap 5.
